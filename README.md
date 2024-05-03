@@ -26,13 +26,15 @@
 ### Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/yourusername/webserv.git
    
 ### Running the Server
-To start the server with the default configuration:
+2. To start the server with the default configuration:
 
-`` ./webserv config_files/default.conf``
+   ```bash
+   ./webserv config_files/default.conf
 
 ### Testing
 The server is tested extensively using:
@@ -42,4 +44,4 @@ siege for stress testing and performance analysis.
 telnet to manually craft HTTP requests and examine raw responses.
 
 ### Contributors
-Your Name
+fbardeau
