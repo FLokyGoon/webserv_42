@@ -44,4 +44,5 @@ The server is tested extensively using:
 * telnet to manually craft HTTP requests and examine raw responses.
 
 ### Contributors
-* @FlokyGoon
+* [@FlokyGoon](https://github.com/FLokyGoon)
+* [@l1mpoln](https://github.com/l1mpoln)
