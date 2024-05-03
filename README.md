@@ -1,7 +1,7 @@
 # Webserv_42 - HTTP Server Project
 
 ![Language](https://img.shields.io/badge/language-C++98-blue.svg)
-![Platform](https://img.shields.io/badge/platform-MacOS-lightgrey.svg)
+![Platform](https://img.shields.io/badge/platform-Ubuntu-orange.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## Introduction
@@ -20,7 +20,7 @@
 
 ### Prerequisites
 
-- MacOS (as per project specifications)
+- Linux (as per project specifications)
 - C++98 compiler (e.g., clang or g++)
 
 ### Installation
@@ -39,9 +39,9 @@
 ### Testing
 The server is tested extensively using:
 
-curl for manual HTTP request testing.
-siege for stress testing and performance analysis.
-telnet to manually craft HTTP requests and examine raw responses.
+* curl for manual HTTP request testing.
+* siege for stress testing and performance analysis.
+* telnet to manually craft HTTP requests and examine raw responses.
 
 ### Contributors
-fbardeau
+* @FlokyGoon
